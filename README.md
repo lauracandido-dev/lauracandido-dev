@@ -2,7 +2,7 @@
 
 ## `Desenvolvedora FullStack` ## 
 
-Me chamo Laura Candido da Silva, tenho 18 anos e estou iniciando da área de programação. Atualmente estou cursando ciências da computação no Centro Universitário FEI. Sempre fui apaixonada por tecnologia, e agora estou transformando essa paixão em carreira. Gosto de aprender coisas novas, encarar desafios e criar soluções que façam a diferença. Em constante evolução, um commit de cada vez.
+Me chamo Laura Candido da Silva, tenho 19 anos e atualmente estou cursando ciências da computação no Centro Universitário FEI. Sempre fui apaixonada por tecnologia, e agora estou transformando essa paixão em carreira. Gosto de aprender coisas novas, encarar desafios e criar soluções que façam a diferença. Em constante evolução, um commit de cada vez.
 
 <div> 
   <a href="https://www.instagram.com/candidolcss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
